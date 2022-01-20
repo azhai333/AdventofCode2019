@@ -1,0 +1,11 @@
+{
+  "name": "jimp",
+  "version": "1.0.0",
+  "main": "day8p2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
